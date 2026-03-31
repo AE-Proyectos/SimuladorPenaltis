@@ -1,0 +1,4 @@
+repository "SimuladorPenaltis/SimuladorPenaltis@4673315245006@cloud"
+  path "/"
+    br "/main"
+    co "/main"
